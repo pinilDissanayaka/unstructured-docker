@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+Werkzeug==2.2.2
+langchain 
+unstructured[all-docs] 
+pydantic 
+lxml   
+tiktoken
+nltk==3.9.1
